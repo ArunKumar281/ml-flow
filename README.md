@@ -1,5 +1,14 @@
 # ml-flow
 repository for going through the hands-on MLFlow walkthrough
 
-create a new environment: ''' conda create -n ml-flow-tutorial python=3.6.3 anaconda '''
+# Basic setup
 
+## Setup the environment
+  - install virtualenv: `pip install virtualenv`
+  - create a new environment: `virtualenv ml-flow-tutorial`
+  - activate the environment: `source ml-flow-tutorial/bin/activate`
+  - run `pip install -r requirements.txt`
+
+## The notebook
+- Get the `hands_on_example.ipynb`
+- run `jupyter notebook`
