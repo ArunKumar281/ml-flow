@@ -1,0 +1,15 @@
+artifact_uri: mlruns/0/2c50e34a9b714a838f937dc7f5ecf60d/artifacts
+end_time: 1677127016958
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c50e34a9b714a838f937dc7f5ecf60d
+run_name: legendary-eel-271
+run_uuid: 2c50e34a9b714a838f937dc7f5ecf60d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677126850250
+status: 3
+tags: []
+user_id: arun-kr

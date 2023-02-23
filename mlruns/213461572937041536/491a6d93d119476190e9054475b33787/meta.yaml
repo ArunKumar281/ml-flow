@@ -1,0 +1,15 @@
+artifact_uri: mlruns/213461572937041536/491a6d93d119476190e9054475b33787/artifacts
+end_time: 1677126364147
+entry_point_name: ''
+experiment_id: '213461572937041536'
+lifecycle_stage: active
+run_id: 491a6d93d119476190e9054475b33787
+run_name: fun-horse-771
+run_uuid: 491a6d93d119476190e9054475b33787
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677126362985
+status: 3
+tags: []
+user_id: arun-kr

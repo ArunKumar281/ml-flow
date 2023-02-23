@@ -1,0 +1,15 @@
+artifact_uri: mlruns/213461572937041536/432324e8e69d4d0faaefa76173fa6a5d/artifacts
+end_time: 1677126365304
+entry_point_name: ''
+experiment_id: '213461572937041536'
+lifecycle_stage: active
+run_id: 432324e8e69d4d0faaefa76173fa6a5d
+run_name: colorful-snake-605
+run_uuid: 432324e8e69d4d0faaefa76173fa6a5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677126364165
+status: 3
+tags: []
+user_id: arun-kr

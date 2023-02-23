@@ -1,0 +1,15 @@
+artifact_uri: mlruns/213461572937041536/47e044b03a654f7fb3d21678a7909afb/artifacts
+end_time: 1677126295262
+entry_point_name: ''
+experiment_id: '213461572937041536'
+lifecycle_stage: active
+run_id: 47e044b03a654f7fb3d21678a7909afb
+run_name: indecisive-lark-713
+run_uuid: 47e044b03a654f7fb3d21678a7909afb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677126293676
+status: 3
+tags: []
+user_id: arun-kr

@@ -1,0 +1,15 @@
+artifact_uri: mlruns/213461572937041536/26a0d7a381674e1d9ad3dee7d5d93654/artifacts
+end_time: 1677126362964
+entry_point_name: ''
+experiment_id: '213461572937041536'
+lifecycle_stage: active
+run_id: 26a0d7a381674e1d9ad3dee7d5d93654
+run_name: adventurous-pig-901
+run_uuid: 26a0d7a381674e1d9ad3dee7d5d93654
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677126361812
+status: 3
+tags: []
+user_id: arun-kr
